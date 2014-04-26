@@ -1,0 +1,19 @@
+{
+  "uuid": "a2649e28-efab-465a-beb1-79d8af36094a",
+  "shortName": "Text Watch Enhanced",
+  "longName": "Text Watch - Enhanced",
+  "companyName": "Timothy Armstrong",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "fetch": 1,
+    "temperature": 2,
+    "city": 3
+  },
+  "resources": {
+    "media": []
+  }
+}
